@@ -3,7 +3,7 @@ import ContactForm from './components/contact-form'
 
 function App() {
   return (
-    <div className="h-full w-full bg-[url('assets/bg-image.svg')] bg-cover">
+    <div className="h-full w-full bg-[url('/assets/bg-image.svg')] bg-cover">
       <header className='p-5 xl:px-14'>
         <img width={90} src={'/assets/contact-form-icon.svg'} />
       </header>
